@@ -4,3 +4,9 @@ développement simple pour récupérer des données et/ou les modifier ou encore
 
 Ce serveur simple nous permet donc d'être dans une situation d'un vrai projet IT, il nous évite 
 de coder les données en dur dans l'application. 
+
+## Lancement du serveur
+Pour lancer le serveur, vous pouvez utiliser la commande : json-server snaface-data.json
+Le serveur sera ainsi lancé sur le port 3000 si ce dernier n'était pas utilisé en amont
+home: http://localhost:3000
+
