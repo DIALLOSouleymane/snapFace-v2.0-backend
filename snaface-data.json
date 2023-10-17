@@ -1,0 +1,74 @@
+{
+  "facesnaps": [
+    {
+      "id": 1,
+      "title": "La poupée de ma grand-mère",
+      "description": "Mon meilleur ami depuis tout petit !",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
+      "createdDate": "2023-10-16T21:35:21.422Z",
+      "snaps": 3,
+      "location": "Dakar"
+    },
+    {
+      "id": 2,
+      "title": "The Three Rock Mountain",
+      "description": "Un endroit magnifique pour les rendonnées",
+      "imageUrl": "../assets/White_Rock_Mountain.jpg",
+      "createdDate": "2023-10-16T21:35:21.422Z",
+      "snaps": 200,
+      "location": "Paris"
+    },
+    {
+      "id": 3,
+      "title": "Un bon repas",
+      "description": "Mmmh, Que c'est bon !",
+      "imageUrl": "https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg",
+      "createdDate": "2023-10-16T21:35:21.422Z",
+      "snaps": 19
+    },
+    {
+      "id": 4,
+      "title": "La poupée de ma grand-mère",
+      "description": "Mon meilleur ami depuis tout petit !",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
+      "createdDate": "2023-10-16T21:35:21.422Z",
+      "snaps": 0,
+      "location": "Dakar"
+    },
+    {
+      "id": 5,
+      "title": "The Three Rock Mountain",
+      "description": "Un endroit magnifique pour les rendonnées",
+      "imageUrl": "../assets/White_Rock_Mountain.jpg",
+      "createdDate": "2023-10-16T21:35:21.422Z",
+      "snaps": 200,
+      "location": "Paris"
+    },
+    {
+      "id": 6,
+      "title": "Un bon repas",
+      "description": "Mmmh, Que c'est bon !",
+      "imageUrl": "https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg",
+      "createdDate": "2023-10-16T21:35:21.422Z",
+      "snaps": 20
+    },
+    {
+      "title": "Nouvelle FaceSnap via http",
+      "description": "My description",
+      "imageUrl": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "location": "SomeWhere on the internet",
+      "snaps": 1,
+      "createdDate": "2023-10-16T23:59:23.322Z",
+      "id": 7
+    },
+    {
+      "title": "An another faceSnap using HTTP",
+      "description": "A very nice picture",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+      "location": "Internet ",
+      "snaps": 1,
+      "createdDate": "2023-10-17T00:01:34.034Z",
+      "id": 8
+    }
+  ]
+}
