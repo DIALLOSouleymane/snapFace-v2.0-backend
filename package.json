@@ -4,13 +4,14 @@
   "description": "A l'aide de la méthode Get et/ou Post, nous envoyons des requêtes HTTP à ce serveur de \r développement simple pour récupérer des données et/ou les modifier ou encore en rajouter.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server --watch snaface-data.json"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Souleymane Diallo - DialloLey",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
     "json-server": "^0.17.4"
   }
 }
