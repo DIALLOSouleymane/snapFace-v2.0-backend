@@ -1,7 +1,7 @@
 const jsonServer = require("json-server"); 
 // This command imports json-server library
 const server = jsonServer.create();
-const router = jsonServer.router("snapface-data.json");
+const router = jsonServer.router("snaface-data.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000; 
 
